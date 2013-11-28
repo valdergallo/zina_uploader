@@ -50,7 +50,7 @@ debug= 1
 Utilizando com o Flowbot
 ------------------------
 
-O Flowbot (Resources) verifica antes de começar um processo se a URL existe, para isso ele bate na API com um ID indefinido. A mesma deve retorna algum conteúdo para ele sem conter a palavra ***ERRO*** em qualquer parte do  JSON. Lembrando sempre que o retorno é lindo como texto pelo Flowbot e não uma lista de itens como esperado por um parser de um JSON.
+O Flowbot (Resources) verifica antes de começar um processo se a URL existe, para isso ele bate na API com um ID indefinido. A mesma deve retorna algum conteúdo para ele sem conter a palavra ***ERRO*** em qualquer parte do  JSON. Lembrando sempre que o retorno é lido como texto pelo Flowbot e não uma lista de itens como esperado por um parser de um JSON.
 
 
 --------------------------------------------------------------------
